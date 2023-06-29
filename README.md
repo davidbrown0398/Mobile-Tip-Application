@@ -1,1 +1,1 @@
-# Tip App from tutorial
+# Android Mobile App practice, done by following a video tutorial
