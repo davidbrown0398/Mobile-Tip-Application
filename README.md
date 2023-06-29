@@ -1,1 +1,1 @@
-# Tip App (Tutorial Followed)
+# Tip App from tutorial
