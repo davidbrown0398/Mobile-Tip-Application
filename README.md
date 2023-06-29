@@ -1,1 +1,1 @@
-# Practice-Projects
+# Tip App (Tutorial Followed)
